@@ -1,0 +1,50 @@
+body{
+    background-color:white;
+    
+}
+.p1{
+    color:black;
+    font-size: large;
+    font-style: italic;
+    background-origin: padding-box;
+    align-items: center;
+    display:flex;
+
+}
+.box{
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 450px;
+    border: 2px solid gray;
+    border-radius: 12px 12px 8px 8px;
+    margin-left: 310px;
+}
+img{
+    width: 400px;
+    height: 250px;
+    display: grid;
+    border-radius: 9px 9px 3px 3px;
+    
+    
+}
+h5{
+    color: gray;
+    font-size: 13px;
+    font-style: initial;
+    
+}
+button{
+    align-items: center;
+    border-radius: 40px;
+    border: 4px;
+    color: red;
+    background-color: plum;
+    display: block;
+    text-align: justify;
+    transition-duration: 0.s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: red;
+    color: yellow;
+}
