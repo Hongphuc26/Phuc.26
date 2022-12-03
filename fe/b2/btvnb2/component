@@ -1,0 +1,6 @@
+headerheader_logo {
+    background-color: gray;
+    text-align: center;
+    font-size: 35px;
+    color: whites;
+  }
